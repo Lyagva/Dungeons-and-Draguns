@@ -22,4 +22,4 @@
 
 ---
 См. также:
-*   [[01_Gadgets_Spells|Гаджеты]]
+*   [Гаджеты](../04_gadgets_spells/01_Magitech_Gadgets.md)

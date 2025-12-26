@@ -59,5 +59,5 @@
 
 ---
 См. также:
-*   [[01_Mechanics|Основные Правила]]
-*   [[01_Spell_Components|Компоненты для патронов]]
+*   [Основные Правила](../01_core/01_Mechanics.md)
+*   [Компоненты для патронов](../03_stones_and_components/01_Spell_Components.md)

@@ -32,5 +32,5 @@
 
 ---
 См. также:
-*   [[01_Weapon_List|Оружие]]
-*   [[01_Spell_Components|Компоненты]]
+*   [Оружие](../02_weapons/01_Weapon_List.md)
+*   [Компоненты](../03_stones_and_components/01_Spell_Components.md)

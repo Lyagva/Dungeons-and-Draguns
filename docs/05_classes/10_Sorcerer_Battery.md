@@ -25,4 +25,4 @@
 
 ---
 См. также:
-*   [[01_Spell_Components|Компоненты]]
+*   [Компоненты](../03_stones_and_components/01_Spell_Components.md)
